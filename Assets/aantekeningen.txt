@@ -1,0 +1,31 @@
+Bronnen:
+platformer tutorial: https://www.youtube.com/watch?v=nPigL-dIqgE
+
+todo:
+-hook line
+
+-drag hook visibilty
+-exiting buttons
+-drag jumping
+-jumping on edge
+
+-level design
+-ventilators
+
+-visual
+
+-feedback
+
+-playtests
+{
+	richting aangeven + text
+	deuren die open staan zichtbaar maken
+	camera positie
+}
+
+-documentation
+
+sources:
+//https://forum.unity.com/threads/how-do-i-find-out-how-many-fps-my-project-is-running-at.1111420/
+lucas van der sloot voor het regenboog script
+https://assetstore.unity.com/packages/2d/fonts/fatality-fps-gaming-font-216954 font
